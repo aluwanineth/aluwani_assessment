@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7FBmKTvBiDmcW4YWpeSTnmfK6CH7Qk0bHpjpgMYVC8+N0oeh7uNsL507Iy1/63JJwwWLqO/7lzCjOAO81LHylw==",
+  "success": true,
+  "projectFilePath": "C:\\GitLab\\Investec Ass\\com.psybergate.assessment.dsnprg001.AluwaniNethavhakone\\com.psybergate.assessment.dsnprg001.AluwaniNethavhakone.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aluwa\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\aluwa\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
